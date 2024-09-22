@@ -42,7 +42,7 @@
         align-items: center;
         span{
             font-size: 26px;
-            color: #30373E;
+            color: #141110;
         }
     }
 }
@@ -70,13 +70,13 @@
         }
     }
     .title{
-        color: #30373E;
+        color: #141110;
         font-size: 34px;
         font-style: normal;
         font-weight: 600;
         line-height: 44px; /* 129.412% */
         @media #{$large-mobile} {
-            color: #30373E;
+            color: #141110;
             font-size: 22px;
             font-style: normal;
             font-weight: 600;
@@ -134,7 +134,7 @@
             font-weight: 600;
             line-height: 44px; /* 55% */
             -webkit-text-stroke: 1px;
-            -webkit-text-stroke-color: #30373E;
+            -webkit-text-stroke-color: #141110;
             color: transparent;
             display: block;
             @media #{$large-mobile} {
