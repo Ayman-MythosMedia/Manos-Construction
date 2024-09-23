@@ -14512,7 +14512,7 @@ xclip
 }
 .nav-area-center nav ul li::after {
   position: absolute;
-  content: "01";
+  /* content: "01"; */
   top: 1px;
   right: 0;
   font-size: 12px;
@@ -14520,7 +14520,7 @@ xclip
   font-weight: 400;
   transition: 0.3s;
 }
-.nav-area-center nav ul li:nth-child(2)::after {
+/* .nav-area-center nav ul li:nth-child(2)::after {
   content: "02";
 }
 .nav-area-center nav ul li:nth-child(3)::after {
@@ -14540,7 +14540,7 @@ xclip
 }
 .nav-area-center nav ul li:nth-child(8)::after {
   content: "08";
-}
+} */
 .nav-area-center nav ul li a {
   display: block;
   padding: 28px 0 23px 0;
@@ -19237,7 +19237,7 @@ a {
 .single-working-prcess-one .inner {
   height: 100%;
   padding: 30px;
-  background: #bd9458;
+  background: #32423a;
   position: relative;
   z-index: 1;
 }
