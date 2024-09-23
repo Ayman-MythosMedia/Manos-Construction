@@ -18131,13 +18131,13 @@ a {
   }
 }
 .single-service-area-one.two::after {
-  background-image: url(../images/service/01.jpg);
+  background-image: url(https://placehold.co/379x276);
 }
 .single-service-area-one.three::after {
-  background-image: url(../images/service/16.jpg);
+  background-image: url(https://placehold.co/379x276);
 }
 .single-service-area-one.four::after {
-  background-image: url(../images/service/17.jpg);
+  background-image: url(https://placehold.co/379x276);
 }
 .single-service-area-one::after {
   position: absolute;
@@ -18146,7 +18146,7 @@ a {
   top: 50%;
   transform: translate(-50%, -50%) scale(0);
   width: 100%;
-  background-image: url(../images/service/15.jpg);
+  background-image: url(https://placehold.co/379x276);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
@@ -19226,13 +19226,13 @@ a {
   height: 100%;
 }
 .single-working-prcess-one.two .inner::after {
-  background-image: url(../images/why-choose/06.jpg);
+  background-image: url(https://placehold.co/308x387);
 }
 .single-working-prcess-one.three .inner::after {
-  background-image: url(../images/why-choose/07.jpg);
+  background-image: url(https://placehold.co/308x387);
 }
 .single-working-prcess-one.four .inner::after {
-  background-image: url(../images/why-choose/08.jpg);
+  background-image: url(https://placehold.co/308x387);
 }
 .single-working-prcess-one .inner {
   height: 100%;
@@ -19249,7 +19249,7 @@ a {
 .single-working-prcess-one .inner::after {
   position: absolute;
   content: "";
-  background-image: url(../images/why-choose/05.jpg);
+  background-image: url(https://placehold.co/308x387);
   width: 0%;
   height: 100%;
   background-repeat: no-repeat;
