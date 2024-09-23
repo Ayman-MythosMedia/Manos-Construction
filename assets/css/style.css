@@ -17798,7 +17798,7 @@ a {
 }
 
 .breadcrumb-area-bg {
-  background-image: url(../images/banner/21.jpg);
+  background-image: url(https://placehold.co/1920x480);
 }
 .breadcrumb-area-bg .bread-crumb-area-inner {
   text-align: center;
@@ -18137,7 +18137,7 @@ a {
   background-image: url(../images/service/16.jpg);
 }
 .single-service-area-one.four::after {
-  background-image: url(../images/service/17.jpg);
+  background-image: url(https://placehold.co/379x276);
 }
 .single-service-area-one::after {
   position: absolute;
@@ -18146,7 +18146,7 @@ a {
   top: 50%;
   transform: translate(-50%, -50%) scale(0);
   width: 100%;
-  background-image: url(../images/service/15.jpg);
+  background-image: url(https://placehold.co/379x276);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
@@ -19249,7 +19249,7 @@ a {
 .single-working-prcess-one .inner::after {
   position: absolute;
   content: "";
-  background-image: url(../images/why-choose/05.jpg);
+  background-image: url(https://placehold.co/308x387);
   width: 0%;
   height: 100%;
   background-repeat: no-repeat;
