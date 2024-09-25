@@ -22177,7 +22177,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   border-bottom: 1px solid #F6F6F6;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   transition: 0.3s;
 }
 .team-area-start-one .team-content .name-area .name {
