@@ -19323,14 +19323,14 @@ a {
   margin-bottom: 106px;
 }
 .single-working-prcess-one .title {
-  color: #141110;
+  color: white;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
   line-height: 30px;
 }
 .single-working-prcess-one p.disc {
-  color: #7D7D7D;
+  color: white;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -19438,7 +19438,7 @@ a {
   transition: 0.4s;
   z-index: 0;
   width: 100%;
-  background: linear-gradient(180deg, rgba(18, 20, 21, 0) 30.87%, rgba(1, 1, 1, 0.8) 73.06%);
+  background: linear-gradient(180deg,  #32423a00 30.87%, #32423ade 73.06%);
   pointer-events: none;
 }
 .single-product-one span.number {
