@@ -638,6 +638,7 @@ ol ul {
 }
 
 .logo img {
+  border-radius: 8px;
   width: 237px;
 }
 
@@ -19323,14 +19324,14 @@ a {
   margin-bottom: 106px;
 }
 .single-working-prcess-one .title {
-  color: #141110;
+  color: white;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
   line-height: 30px;
 }
 .single-working-prcess-one p.disc {
-  color: #7D7D7D;
+  color: white;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -19438,7 +19439,7 @@ a {
   transition: 0.4s;
   z-index: 0;
   width: 100%;
-  background: linear-gradient(180deg, rgba(18, 20, 21, 0) 30.87%, rgba(1, 1, 1, 0.8) 73.06%);
+  background: linear-gradient(180deg,  #32423a00 30.87%, #32423ade 73.06%);
   pointer-events: none;
 }
 .single-product-one span.number {
@@ -22444,6 +22445,11 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   gap: 18px;
   margin-bottom: 20px;
 }
+
+.single-contact-info .icon svg {
+  color: white !important;
+}
+
 .single-contact-info:last-child {
   margin-bottom: 0;
 }
@@ -22548,7 +22554,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 }
 
 .bg-footer-image {
-  background-image: url(../images/footer/01.jpg);
+  background-color: #32423a;
 }
 
 .footer-area-wrapper-one {
@@ -22643,7 +22649,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 }
 .single-footer-wized .contact-information-1 .single-contact-info .icon {
   font-size: 29px;
-  color: var(--color-primary);
+  color: white;
 }
 .single-footer-wized .contact-information-1 .single-contact-info .information a {
   color: #fff;
@@ -22690,6 +22696,9 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 .copyright-style-one .copyright-area-main-wrapper-one ul li {
   margin: 0;
   padding: 0;
+}
+.copyright-style-one .copyright-area-main-wrapper-one ul li a{
+  color: white !important;
 }
 
 .disc-f {
